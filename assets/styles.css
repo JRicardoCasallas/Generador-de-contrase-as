@@ -1,0 +1,9 @@
+body {
+    
+    background: #0e0f0fe3; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #131414, #171818, #1d1d1d); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #694141, #0e0e0e, #242525); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.badge {
+    font-size: 25px;
+}
